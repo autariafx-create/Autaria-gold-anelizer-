@@ -1,3 +1,4 @@
+
 {
   "name": "Gold Analyzer",
   "short_name": "Gold Analyzer",
@@ -8,16 +9,14 @@
   "description": "Real ICT and SMC Structure Analyzer for Gold Trading",
   "icons": [
     {
-      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAMAAABlApWyAAAAA1BMVEUAAACnej3aAAAASElEQVR42u3BMQEAAADCoPVPbQ0PoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4M1AAAQHV6vEAAAAASUVORK5CYII=",
+      "src": "https://raw.githubusercontent.com/autariafx-create/Autaria-gold-anelizer-/main/icon.png",
       "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any"
+      "type": "image/png"
     },
     {
-      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAMAAABlApWyAAAAA1BMVEUAAACnej3aAAAASElEQVR42u3BMQEAAADCoPVPbQ0PoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4M1AAAQHV6vEAAAAASUVORK5CYII=",
+      "src": "https://raw.githubusercontent.com/autariafx-create/Autaria-gold-anelizer-/main/icon.png",
       "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any"
+      "type": "image/png"
     }
   ]
 }

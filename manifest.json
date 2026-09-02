@@ -9,13 +9,13 @@
   "description": "Premium Gold Trading and Market Analysis App",
   "icons": [
     {
-      "src": "https://autariafx-create.github.io/Autaria-gold-anelizer-/icon.png",
+      "src": "./icon.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://autariafx-create.github.io/Autaria-gold-anelizer-/icon.png",
+      "src": "./icon.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"

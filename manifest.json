@@ -8,15 +8,15 @@
   "description": "Real ICT and SMC Structure Analyzer for Gold Trading",
   "icons": [
     {
-      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='100%' height='100%' fill='%23000000'/><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' font-size='200' fill='%23ffd700'>GA</text></svg>",
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAMAAABlApWyAAAAA1BMVEUAAACnej3aAAAASElEQVR42u3BMQEAAADCoPVPbQ0PoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4M1AAAQHV6vEAAAAASUVORK5CYII=",
       "sizes": "192x192",
-      "type": "image/svg+xml",
+      "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='100%' height='100%' fill='%23000000'/><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' font-size='200' fill='%23ffd700'>GA</text></svg>",
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAMAAABlApWyAAAAA1BMVEUAAACnej3aAAAASElEQVR42u3BMQEAAADCoPVPbQ0PoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4M1AAAQHV6vEAAAAASUVORK5CYII=",
       "sizes": "512x512",
-      "type": "image/svg+xml",
+      "type": "image/png",
       "purpose": "any"
     }
   ]

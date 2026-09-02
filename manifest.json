@@ -1,3 +1,4 @@
+
 {
   "name": "Autaria Gold Analyzer",
   "short_name": "Autaria GA",
@@ -9,16 +10,14 @@
   "description": "Premium Gold Trading and Market Analysis App",
   "icons": [
     {
-      "src": "https://cdn-icons-png.flaticon.com/512/2991/2991148.png",
+      "src": "https://autariafx-create.github.io/Autaria-gold-anelizer-/icon.png",
       "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any"
+      "type": "image/png"
     },
     {
-      "src": "https://cdn-icons-png.flaticon.com/512/2991/2991148.png",
+      "src": "https://autariafx-create.github.io/Autaria-gold-anelizer-/icon.png",
       "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any"
+      "type": "image/png"
     }
   ]
 }

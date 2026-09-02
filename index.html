@@ -1339,6 +1339,22 @@ function jarvisToggleMic() {
     startRecognition();
   }
 }
+</script><script>
+  // Register Service Worker
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('./sw.js')
+        .then(registration => {
+          console.log('✅ Service Worker Registered Successfully!');
+          console.log('Scope:', registration.scope);
+        })
+        .catch(error => {
+          console.log('❌ Service Worker Registration Failed:', error);
+        });
+    });
+  } else {
+    console.log('⚠️ Service Worker not supported in this browser');
+  }
 </script>
 </body>
   </html>

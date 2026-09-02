@@ -1,36 +1,14 @@
-{
-  "name": "Autaria Gold Analyzer",
-  "short_name": "Autaria GA",
-  "start_url": "./index.html",
-  "display": "standalone",
-  "orientation": "portrait",
-  "background_color": "#000000",
-  "theme_color": "#000000",
-  "description": "Premium Gold Trading and Market Analysis App",
-  "icons": [
-    {
-      "src": "icon.png",
+"icons": [
+  {
+      "src": "https://www.pwabuilder.com/assets/icons/icon_192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
-    },
-    {
-      "src": "icon.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "maskable"
-    },
-    {
-      "src": "icon.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any"
-    },
-    {
-      "src": "icon.png",
+  },
+  {
+      "src": "https://www.pwabuilder.com/assets/icons/icon_512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
-    }
-  ]
-}
+  }
+]
